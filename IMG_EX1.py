@@ -9,9 +9,8 @@ Description: Exercises in Photogrammetry, Remote Sensing, and Image Processing
 License:
 This script is provided by the author, Maria Melanie Julia Federer, for educational purposes.
 You are free to use and modify this script as long as you agree
-    -If any issues arise with the professor regarding the script, 
-    it will be understood that the script was created independently by me.
-
+- In the event of any concerns or inquiries raised regarding the script or grading,
+it will be acknowledged that the script was authored independently by Maria Federer.
  
 """
 
